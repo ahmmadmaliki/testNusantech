@@ -1,0 +1,11 @@
+{
+  "name": "nusantech",
+  "version": "1.0.0",
+  "description": "nusantech test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmmad Maliki",
+  "license": "ISC"
+}
